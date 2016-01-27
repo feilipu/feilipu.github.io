@@ -1,0 +1,45 @@
+{
+  "packages": [
+    {
+      "name": "Goldilocks ATmega Boards",
+      "maintainer": "Phillip Stevens",
+      "websiteURL": "https://github.com/feilipu/Arduino_Goldilocks_Variant",
+      "email": "phillip.stevens@gmail.com",
+      "help": {
+        "online": "https://github.com/feilipu/Arduino_Goldilocks_Variant/issues"
+      },
+      "platforms": [
+        {
+          "name": "Goldilocks",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/feilipu/Arduino_Goldilocks_Variant/issues"
+          },
+          "url": "https://github.com/feilipu/Arduino_Goldilocks_Variant/archive/v1.0.0.zip",
+          "archiveFileName": "Arduino_Goldilocks_Variant-1.0.0.zip",
+          "checksum": "SHA-256:fe5f2378724b0680820deccae562f9dc46cd0bb5064572e647dad5cb877e22ea",
+          "size": "2381559",
+          "boards": [
+            {"name": "Goldilocks 20MHz"},
+            {"name": "Goldilocks 22.1184MHz"},
+            {"name": "Goldilocks Analogue"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
