@@ -19,8 +19,8 @@
           },
           "url": "https://raw.githubusercontent.com/feilipu/feilipu.github.io/master/Arduino_Goldilocks_Variant_v1.0.1.zip",
           "archiveFileName": "Arduino_Goldilocks_Variant_1.0.1.zip",
-          "checksum": "SHA-256:9fc7536d068bcf5e3ac49d2a38fadde53ee64ac2190a280dfbf6a8862b43fdb3",
-          "size": "2213187",
+          "checksum": "SHA-256:c85c7c24485b9964633a8c16869ac1ed3f497867ab6c93cf9b205a4ca6e2bd40",
+          "size": "2252295",
           "boards": [
             {"name": "Goldilocks 20MHz"},
             {"name": "Goldilocks 22.1184MHz"},
