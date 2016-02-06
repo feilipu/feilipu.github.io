@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/feilipu/Arduino_Goldilocks_Variant/issues"
           },
-          "url": "https://github.com/feilipu/Arduino_Goldilocks_Variant/archive/v1.0.0.zip",
-          "archiveFileName": "Arduino_Goldilocks_Variant-1.0.0.zip",
-          "checksum": "SHA-256:fe5f2378724b0680820deccae562f9dc46cd0bb5064572e647dad5cb877e22ea",
-          "size": "2381559",
+          "url": "https://raw.githubusercontent.com/feilipu/feilipu.github.io/master/Arduino_Goldilocks_Variant_v1.0.1.zip",
+          "archiveFileName": "Arduino_Goldilocks_Variant_1.0.1.zip",
+          "checksum": "SHA-256:9fc7536d068bcf5e3ac49d2a38fadde53ee64ac2190a280dfbf6a8862b43fdb3",
+          "size": "2213187",
           "boards": [
             {"name": "Goldilocks 20MHz"},
             {"name": "Goldilocks 22.1184MHz"},
