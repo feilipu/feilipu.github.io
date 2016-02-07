@@ -12,13 +12,13 @@
         {
           "name": "Goldilocks",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.2",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/feilipu/Arduino_Goldilocks_Variant/issues"
           },
-          "url": "https://raw.githubusercontent.com/feilipu/feilipu.github.io/master/Arduino_Goldilocks_Variant_v1.0.1.zip",
-          "archiveFileName": "Arduino_Goldilocks_Variant_1.0.1.zip",
+          "url": "https://raw.githubusercontent.com/feilipu/feilipu.github.io/master/Arduino_Goldilocks_Variant_v1.0.2.zip",
+          "archiveFileName": "Arduino_Goldilocks_Variant_1.0.2.zip",
           "checksum": "SHA-256:84e6f260722be70ef8d860958e738fa6066f83a61ed4fb09057a1846b3e1e134",
           "size": "2252258",
           "boards": [
