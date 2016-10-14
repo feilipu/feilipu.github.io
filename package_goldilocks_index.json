@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "seeed",
+      "name": "Goldilocks",
       "maintainer": "Phillip Stevens",
       "websiteURL": "https://github.com/feilipu/Arduino_Goldilocks_Variant",
       "email": "phillip.stevens@gmail.com",
